@@ -1,0 +1,25 @@
+.blogCard {
+    width: 48%;
+    min-height: 100px;
+    float: left;
+    margin: 10px 1%;
+    background: #1e1e1f;
+    border: 1px solid #222;
+    padding: 10px;
+}
+
+.blogCard img {
+    float: left;
+    margin-right: 15px;
+}
+
+.blogCard h3 {
+    margin-bottom: 5px;
+}
+
+.blogCard p {
+    width: 35ch;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
